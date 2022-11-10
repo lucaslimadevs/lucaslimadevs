@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaslimadevs
 - 🌱 I’m currently learning .NET and Angular
-- 💞️ I’m looking to collaborate on .NET core projects
+- 💞️ I’m looking to collaborate on .NET Core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
 
 <h3 align="left">Connect with me:</h3>
