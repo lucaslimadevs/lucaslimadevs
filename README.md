@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lucaslimadevs
-- 👀 I’m interested in .NET and Angular
 - 🌱 I’m currently learning .NET and Angular
 - 💞️ I’m looking to collaborate on .NET core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
