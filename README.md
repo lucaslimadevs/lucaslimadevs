@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @lucaslimadevs
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Lima</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" /> </p>
+
 - 🔭 I’m currently working on Stefanini Brazil
 - 🌱 I’m currently learning C#, .NET, Angular, JavaScript, Typescript
 - 💞️ I’m looking to collaborate on .NET Core projects
