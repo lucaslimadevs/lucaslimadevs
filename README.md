@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning C#, .NET, Angular, JavaScript, Typescript
 - 💞️ I’m looking to collaborate on .NET Core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
-
-<h3 align="left">Connect with me:</h3>
+  
+##
+  
 <div> 
+<h3 align="left">Connect with me:</h3>
   <a 
      href="https://www.linkedin.com/in/lucas-santos-gon%C3%A7alves-lima-a05a95203" 
      target="_blank">
@@ -16,6 +18,9 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+##
+
 <div>
   <h3>Languages and Tools:</h3>
   <img alt="C#" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">  
