@@ -5,25 +5,40 @@
 - 📫 How to reach me lucaslima.devs@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucas-santos-gon%C3%A7alves-lima-a05a95203" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucaslimadevs" height="30" width="40" /></a>
-</p>
+<div> 
+  <a 
+     href="https://www.linkedin.com/in/lucas-santos-gon%C3%A7alves-lima-a05a95203" 
+     target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a 
+     href = "mailto:lucaslima.devs@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+ 
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-      <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-      <a href="https://learn.microsoft.com/pt-br/training/dotnet/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-      <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> </a>      
-      <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-            <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-      <a href="https://learn.microsoft.com/pt-br/sql/relational-databases/database-engine-tutorials?view=sql-server-ver16" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlsever" width="40" height="40"/> </a>
-       </p>
-<br>
+</div>
+  <br>
+  <img align="center" alt="C#" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="DotNetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="MicrosoftSQLServer" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
+  <img align="center" alt="postgresql" height="30" width="40" src="https://github.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">  
+</div>       
        
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaslimadevs&show_icons=true&locale=en&layout=compact" alt="lucaslimadevs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucaslimadevs&show_icons=true&locale=en" alt="lucaslimadevs" /></p>
-       
+<div align="center">
+  <a href="https://github.com/lucaslimadevs">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadevs&layout=compact&langs_count=7&theme=light"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimadevs&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+</div>
 <!---
 lucaslimadevs/lucaslimadevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
