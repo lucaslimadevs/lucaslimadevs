@@ -23,14 +23,14 @@
 
 <div>
   <h3>Languages and Tools:</h3>
-  <img alt="Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="DotNetCore" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img alt="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">  
-  <img alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
-  <img alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img alt="postgresql" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">  
-  <img alt="MicrosoftSQLServer" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+  <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"><img alt="Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a> 
+  <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"><img alt="DotNetCore" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a> 
+  <a href="https://angular.io/" target="_blank"><img alt="Angular" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img alt="HTML" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img alt="CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>  
+  <a href="https://www.postgresql.org/" target="_blank"><img alt="postgresql" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"></a>  
+  <a href="https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16" target="_blank"><img alt="MicrosoftSQLServer" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a> 
 </div>             
 <br>       
 <div>
