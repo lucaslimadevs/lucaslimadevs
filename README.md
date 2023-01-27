@@ -46,8 +46,8 @@
 
 <div>
   <a href="https://github.com/lucaslimadevs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimadevs&show_icons=true&theme=vision-friendly-dark" alt="lucaslima's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimadevs&layout=compact&theme=vision-friendly-dark" alt="lucaslima's most languages"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucaslimadevs&show_icons=true&theme=vision-friendly-dark" alt="lucaslima's stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucaslimadevs&layout=compact&theme=vision-friendly-dark" alt="lucaslima's most languages"/>
 </div>
 
 <!-- <div>
