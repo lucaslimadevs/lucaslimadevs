@@ -1,5 +1,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Lima</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" /> </p>
+<div>
+<img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" />
+<img src="https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lucaslimadevs" alt="total star count in repositories" />
+</div>
 
 - 🔭 I’m currently working on Stefanini Brazil
 - 🌱 I’m currently learning C#, .NET, Angular, JavaScript, Typescript
