@@ -1,4 +1,5 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Lucas Lima</h1>
+<h1 align="left">Hi, I'm Lucas Lima</h1> <img src="https://user-images.githubusercontent.com/117870158/225175405-d037cf3c-a8f1-4fe2-901a-b531401b2f8e.gif">
+
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" />
 <img src="https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lucaslimadevs" alt="total star count in repositories" />
