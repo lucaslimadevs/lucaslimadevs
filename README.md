@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Lucas Lima</h1>
+<h1 align="left">Hi,👋 I'm Lucas Lima</h1>
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" />
