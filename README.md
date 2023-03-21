@@ -6,7 +6,6 @@
 </div>
 
 - 🔭 I’m currently working on Stefanini Brazil
-- 🌱 I’m currently learning C#, .NET, Angular, JavaScript, Typescript
 - 💞️ I’m looking to collaborate on .NET Core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
   
