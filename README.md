@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Lucas Lima</h1> <img src="https://user-images.githubusercontent.com/117870158/225175405-d037cf3c-a8f1-4fe2-901a-b531401b2f8e.gif">
+<h1 align="left">Hi, I'm Lucas Lima</h1>
 
 <div>
 <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" />
@@ -23,17 +23,6 @@
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
-## 🛠 &nbsp;Tech Stack
-
-![Dotnet](https://img.shields.io/badge/-Dotnet-05122A?style=flat&logo=dotnet)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 <!-- <div>  
   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"><img alt="Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a> 
