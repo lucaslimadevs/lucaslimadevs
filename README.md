@@ -5,7 +5,6 @@
 <img src="https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lucaslimadevs" alt="total star count in repositories" />
 </div>
 
-- 🔭 I’m currently working on Stefanini Brazil
 - 💞️ I’m looking to collaborate on .NET Core projects
 - 📫 How to reach me lucaslima.devs@gmail.com
   
