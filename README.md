@@ -1,6 +1,6 @@
 <h1 align="left">Hi,👋 I'm Lucas Lima</h1>
 
-<div>
+<!--  <div>
 <img src="https://komarev.com/ghpvc/?username=lucaslimadevs&color=red" alt="Profile views" />
 <img src="https://img.shields.io/badge/dynamic/json?label=%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/lucaslimadevs" alt="total star count in repositories" />
 </div>
@@ -11,17 +11,17 @@
 ## 📫 Connect with me:
   
 <div>
-<!--   <a 
+  <a 
      href="https://www.linkedin.com/in/lucas-lima-devs/" 
      target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  -->
+  </a>  
   <a 
      href = "mailto:lucaslima.devs@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
-
+-->
 <!-- <div>  
   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank"><img alt="Csharp" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a> 
   <a href="https://learn.microsoft.com/pt-br/dotnet/core/introduction" target="_blank"><img alt="DotNetCore" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a> 
@@ -33,7 +33,7 @@
   <a href="https://learn.microsoft.com/pt-br/sql/sql-server/?view=sql-server-ver16" target="_blank"><img alt="MicrosoftSQLServer" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"></a> 
 </div>              -->    
 
-## ⚙️ &nbsp;GitHub Analytics
+<!--  ## ⚙️ &nbsp;GitHub Analytics -->
 
 <div>
   <a href="https://github.com/lucaslimadevs">
